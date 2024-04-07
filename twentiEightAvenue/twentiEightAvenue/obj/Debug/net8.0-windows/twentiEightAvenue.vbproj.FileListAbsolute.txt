@@ -1,0 +1,17 @@
+C:\Users\sevhen\source\repos\twentiEightAvenue\twentiEightAvenue\bin\Debug\net8.0-windows\twentiEightAvenue.exe
+C:\Users\sevhen\source\repos\twentiEightAvenue\twentiEightAvenue\bin\Debug\net8.0-windows\twentiEightAvenue.deps.json
+C:\Users\sevhen\source\repos\twentiEightAvenue\twentiEightAvenue\bin\Debug\net8.0-windows\twentiEightAvenue.runtimeconfig.json
+C:\Users\sevhen\source\repos\twentiEightAvenue\twentiEightAvenue\bin\Debug\net8.0-windows\twentiEightAvenue.dll
+C:\Users\sevhen\source\repos\twentiEightAvenue\twentiEightAvenue\bin\Debug\net8.0-windows\twentiEightAvenue.pdb
+C:\Users\sevhen\source\repos\twentiEightAvenue\twentiEightAvenue\obj\Debug\net8.0-windows\twentiEightAvenue.Resources.resources
+C:\Users\sevhen\source\repos\twentiEightAvenue\twentiEightAvenue\obj\Debug\net8.0-windows\twentiEightAvenue.vbproj.GenerateResource.cache
+C:\Users\sevhen\source\repos\twentiEightAvenue\twentiEightAvenue\obj\Debug\net8.0-windows\twentiEightAvenue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevhen\source\repos\twentiEightAvenue\twentiEightAvenue\obj\Debug\net8.0-windows\twentiEightAvenue.AssemblyInfoInputs.cache
+C:\Users\sevhen\source\repos\twentiEightAvenue\twentiEightAvenue\obj\Debug\net8.0-windows\twentiEightAvenue.AssemblyInfo.vb
+C:\Users\sevhen\source\repos\twentiEightAvenue\twentiEightAvenue\obj\Debug\net8.0-windows\twentiEightAvenue.vbproj.CoreCompileInputs.cache
+C:\Users\sevhen\source\repos\twentiEightAvenue\twentiEightAvenue\obj\Debug\net8.0-windows\twentiEightAvenue.dll
+C:\Users\sevhen\source\repos\twentiEightAvenue\twentiEightAvenue\obj\Debug\net8.0-windows\refint\twentiEightAvenue.dll
+C:\Users\sevhen\source\repos\twentiEightAvenue\twentiEightAvenue\obj\Debug\net8.0-windows\twentiEightAvenue.pdb
+C:\Users\sevhen\source\repos\twentiEightAvenue\twentiEightAvenue\obj\Debug\net8.0-windows\twentiEightAvenue.genruntimeconfig.cache
+C:\Users\sevhen\source\repos\twentiEightAvenue\twentiEightAvenue\obj\Debug\net8.0-windows\ref\twentiEightAvenue.dll
+C:\Users\sevhen\source\repos\twentiEightAvenue\twentiEightAvenue\obj\Debug\net8.0-windows\twentiEightAvenue.Cashier.resources
